@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'friendly_id', '~> 5.1.0'
 # Gem for good ui in rails console
 gem 'hirb'
+# Gem for authentication
+gem 'devise', '~> 4.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
